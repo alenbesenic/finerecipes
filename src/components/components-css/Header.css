@@ -1,0 +1,10 @@
+.header{
+    background: url('/src/components/images/header-image-large.jpg') center center/cover no-repeat;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+}
